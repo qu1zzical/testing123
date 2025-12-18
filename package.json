@@ -14,3 +14,4 @@
   "author": "Brad Traversy",
   "license": "ISC"
 }
+npx mastra init
